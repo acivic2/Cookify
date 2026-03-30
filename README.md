@@ -1,2 +1,2 @@
-# SmartHire
+# cookify
 Smart Resume Tracking and Candidate Recommendation Platform
